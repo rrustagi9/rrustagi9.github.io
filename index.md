@@ -28,6 +28,7 @@ improve the user feed reactivity by 21% and average creator reaction by 15%.
 sales of new products with a 95% accuracy rate.
 - Worked in the International Operations team to analyze product usage and customer sentiment using 
 a LDA topic modelling model and LSTM for response classification.
-```markdown
+
+```
 
 
