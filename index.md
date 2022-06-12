@@ -1,7 +1,7 @@
 ## Welcome to my profile ![photo_2020-01-03_01-00-12](https://user-images.githubusercontent.com/63203344/173253814-61e4fd08-603f-4fd8-9389-0949ce668b0d.jpg)
 
 
-I am a Data Scientist currently working at Koo App India in the Engineering team . Most of my projects and training have been centered around the concept of Data Engineering and Data Science. Not only do I have experience in building and optimization of machine learning and deep learning models ,I also have experience in their front end development (using Flask, Django and streamlit) and cloud deployment on services like Azure ,GCP and AWS
+I am Rahul Rustagi, a data Scientist currently working at Koo App India in the Engineering team . Most of my projects and training have been centered around the concept of Data Engineering and Data Science. Not only do I have experience in building and optimization of machine learning and deep learning models ,I also have experience in their front end development (using Flask, Django and streamlit) and cloud deployment on services like Azure ,GCP and AWS
 
 ### Experience 
 
@@ -28,4 +28,6 @@ improve the user feed reactivity by 21% and average creator reaction by 15%.
 sales of new products with a 95% accuracy rate.
 - Worked in the International Operations team to analyze product usage and customer sentiment using 
 a LDA topic modelling model and LSTM for response classification.
+```markdown
+
 
