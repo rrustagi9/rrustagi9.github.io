@@ -1,33 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to my profile 
 
-You can use the [editor on GitHub](https://github.com/rrustagi9/rrustagi9.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Data Scientist currently working at Koo App India in the Engineering team . Most of my projects and training have been centered around the concept of Data Engineering and Data Science. Not only do I have experience in building and optimization of machine learning and deep learning models ,I also have experience in their front end development (using Flask, Django and streamlit) and cloud deployment on services like Azure ,GCP and AWS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The places I have worked at and the tasks I have accomplished includes - 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+Koo India -
+Data Scientist 01/2022 – Present
+- Worked in the Core ML team to develop and scale a multi-signal ML based recommendation 
+system which resulted in a 55% increase in recommendation-based followership conversion rate
+and increase the conversion forecasting scale for a bigger time-frame.
+- Developed and scaled NLP based recommendation Engine using Text embeddings
+(Transformer/laBSE) based signal to generate recommendations for more than 500K creators on 
+the platform.
+- Worked with the ML-Ops and Data Engineering teams to set-up and scale user content classification 
+and sentiment analysis pipeline
+- Worked with the ML-Ops team to infuse ETL pipelines for metadata tagging and creator analysis to 
+improve the user feed reactivity by 21% and average creator reaction by 15%.
+Great Learning -
+Associate Data Scientist 08/2021 – 01/2022
+- Used predictive analytics such as machine learning and data mining techniques to forecast company 
+sales of new products with a 95% accuracy rate.
+- Worked in the International Operations team to analyze product usage and customer sentiment using 
+a LDA topic modelling model and LSTM for response classification.
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rrustagi9/rrustagi9.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
