@@ -7,8 +7,7 @@ I am a Data Scientist currently working at Koo App India in the Engineering team
 The places I have worked at and the tasks I have accomplished includes - 
 
 ```markdown
-Koo India -
-Data Scientist 01/2022 – Present
+### Koo India -  Data Scientist 01/2022 – Present
 - Worked in the Core ML team to develop and scale a multi-signal ML based recommendation 
 system which resulted in a 55% increase in recommendation-based followership conversion rate
 and increase the conversion forecasting scale for a bigger time-frame.
@@ -19,16 +18,13 @@ the platform.
 and sentiment analysis pipeline
 - Worked with the ML-Ops team to infuse ETL pipelines for metadata tagging and creator analysis to 
 improve the user feed reactivity by 21% and average creator reaction by 15%.
-Great Learning -
-Associate Data Scientist 08/2021 – 01/2022
+
+
+
+
+### Great Learning - Associate Data Scientist 08/2021 – 01/2022
 - Used predictive analytics such as machine learning and data mining techniques to forecast company 
 sales of new products with a 95% accuracy rate.
 - Worked in the International Operations team to analyze product usage and customer sentiment using 
 a LDA topic modelling model and LSTM for response classification.
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rrustagi9/rrustagi9.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
